@@ -1,0 +1,11 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is 50A5-0D35
+
+ Directory of C:\Git project
+
+15-06-2022  19:03    <DIR>          .
+15-06-2022  18:44               338 index.html
+15-06-2022  19:03                 0 newFile.txt
+15-06-2022  18:44               297 test.txt
+               3 File(s)            635 bytes
+               1 Dir(s)  109,398,024,192 bytes free
